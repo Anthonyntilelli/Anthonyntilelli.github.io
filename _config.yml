@@ -1,11 +1,11 @@
 # Site settings
 author: Anthony Tilelli
-title: Full Stack blog
+title: From SysOps to DevOps/Full Stack
 header-img: img/home-bg.png
 email: anthony@tilelli.me
 copyright_name: Anthony Tilelli
 description: > # this means to ignore newlines until "baseurl:"
-  Blog for full Stack.
+  Detailing my Journey from System Administrator to  Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Anthonyntilelli
