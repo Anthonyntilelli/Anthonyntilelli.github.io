@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Value of Containers"
-date:       2019-11-02 02:52:33 +0000
+date:       2019-11-01 22:52:34 -0400
 permalink:  value_of_containers
 ---
 
