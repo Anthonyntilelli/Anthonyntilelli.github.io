@@ -15,9 +15,8 @@ The CLI project gets a bulk or it’s input from the internet via an API call or
 3. Critical/Messy code portions
 
 There is an old joke in programming:
-```
-A QA tester is testing a bar, he orders a drink, then he orders 0 drinks , -1 drinks, 100 drinks and infinite drinks. Then a user walks in the bar and asks “where the bathroom is?” and the bar burns down.
-```
+
+"A QA tester is testing a bar, he orders a drink, then he orders 0 drinks , -1 drinks, 100 drinks and infinite drinks. Then a user walks in the bar and asks “where the bathroom is?” and the bar burns down."
 
 Never trust data providers to provide the data in the intended format or the correctly. Data providers can be users at the CLI, API/web scrape results or data in a files.  Always check that data provided to the program from external source is in the correct format, type and range. Even data your program has written itself, such as data files or SQL entries, should be validated as a third-party could have changed them or it is no-longer valid due to random unforeseen reason.
 
