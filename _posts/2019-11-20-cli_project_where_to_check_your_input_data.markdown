@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "CLI Project: Where to check your input/data?"
+title:      " Where to check your input/data?"
 date:       2019-11-20 20:16:42 -0500
 permalink:  cli_project_where_to_check_your_input_data
 ---
