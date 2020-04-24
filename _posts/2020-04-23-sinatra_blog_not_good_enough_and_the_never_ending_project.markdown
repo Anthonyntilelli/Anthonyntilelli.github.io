@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Sinatra Blog: Not good enough and the never ending Project"
+title:      "Sinatra Blog: Working with Emails."
 date:       2020-04-23 22:50:39 -0400
 permalink:  sinatra_blog_not_good_enough_and_the_never_ending_project
 ---
