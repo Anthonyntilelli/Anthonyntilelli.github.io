@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Blog: Not good enough and the never ending Project"
-date:       2020-04-24 02:50:38 +0000
+date:       2020-04-23 22:50:39 -0400
 permalink:  sinatra_blog_not_good_enough_and_the_never_ending_project
 ---
 
