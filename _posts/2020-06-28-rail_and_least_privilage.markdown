@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rail and least Privilage"
-date:       2020-06-28 19:38:08 +0000
+date:       2020-06-28 15:38:09 -0400
 permalink:  rail_and_least_privilage
 ---
 
